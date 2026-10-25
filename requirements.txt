@@ -1,0 +1,5 @@
+PySide6-Essentials>=6.6
+numpy>=1.26
+pynput>=1.7.6
+PyAudioWPatch; sys_platform == "win32"
+pyinstaller>=6.6
